@@ -1,0 +1,11 @@
+function initialize() {
+  /*
+   * Takes the IDs of all files used in the script
+   */
+
+  const SHEET_ID = "";
+  const SLIDES_ID = "";
+  const DRIVE_ID = "";
+
+  return { SHEET_ID, SLIDES_ID, DRIVE_ID };
+}

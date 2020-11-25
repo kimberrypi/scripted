@@ -1,0 +1,12 @@
+{
+  "timeZone": "Asia/Hong_Kong",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "BetterLog",
+      "libraryId": "1DSyxam1ceq72bMHsE6aOVeOl94X78WCwiYPytKi7chlg4x5GqiNXSw0l",
+      "version": "27"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
